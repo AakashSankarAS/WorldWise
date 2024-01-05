@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Chennai",
+      "country": "India",
+      "date": "2024-01-05T06:17:25.422Z",
+      "emoji": "🇮🇳",
+      "notes": "",
+      "position": {
+        "lat": "12.997793954452929",
+        "lng": "80.25950431823732"
+      },
+      "id": 17806752
+    },
+    {
+      "cityName": "Villupuram",
+      "country": "India",
+      "date": "2023-09-12T06:38:39.000Z",
+      "emoji": "🇮🇳",
+      "notes": "WonderFul Place",
+      "position": {
+        "lat": "11.94009758280415",
+        "lng": "79.49483871459962"
+      },
+      "id": 17806753
+    },
+    {
+      "cityName": "South Slave Region",
+      "country": "Canada",
+      "date": "2024-01-05T06:40:07.084Z",
+      "emoji": "🇨🇦",
+      "notes": "Orton Born Country",
+      "position": {
+        "lat": "60.9984350353298",
+        "lng": "-107.92968750000001"
+      },
+      "id": 17806754
+    }
+  ]
+}
